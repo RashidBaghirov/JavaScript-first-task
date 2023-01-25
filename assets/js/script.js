@@ -17,7 +17,7 @@ class CustomMatch {
     }
     divide(num4){
         this.num /= num4;
-        return this;
+        return this.num;
     }
 }
 
